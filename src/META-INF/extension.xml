@@ -1,0 +1,12 @@
+<extension id="tango.git" version="1.0" esdk-version="2.0" rsbundle-class="tango.git.Res"
+           xmlns="http://jcp.org/jsr/198/extension-manifest">
+  <name>Tango Git</name>
+  <owner>Sudhakar Mani</owner>
+  <trigger-hooks xmlns="http://xmlns.oracle.com/ide/extension">
+    <!-- TODO Declare triggering functionality provided by extension: tango.git -->
+    <triggers/>
+  </trigger-hooks>
+  <hooks>
+    <!-- TODO Declare functionality provided by extension: tango.git -->
+  </hooks>
+</extension>
